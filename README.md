@@ -1,3 +1,3 @@
 # site-apeperia
 
-Site para estudo do pré-compiladore de CSS, SASS.
+Site para estudo do pré-compilador de CSS, SASS.
